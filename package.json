@@ -1,0 +1,21 @@
+{
+  "name": "unit",
+  "version": "1.0.0",
+  "description": "Jest",
+  "main": "intro.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
